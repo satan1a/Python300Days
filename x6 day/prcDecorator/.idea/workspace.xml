@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a303e9ea-9b16-4a41-9b03-65c1f2b6a3ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../x9 day/knowScope/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../x9 day/knowScope/KnowScope.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../x9 day/knowScope/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../x8 day/TODO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../x8 day/TODO/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../x9 day/knowScope/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../x9 day/knowScope/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +17,7 @@
     <session id="-1886680124">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.5" value="4" />
           <entry key="project.opened" value="5" />
