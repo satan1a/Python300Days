@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d2ff161-4000-4c26-a4b6-b2834499c83e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../x10 day/prcClass/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../x11 day/learnPolymorphism/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../x11 day/learnPolymorphism/PrcPolymorphism.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../x11 day/learnPolymorphism/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../x10 day/prcClass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../x10 day/prcClass/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../x6 day/prcDecorator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../x6 day/prcDecorator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KnowScope.py" beforeDir="false" afterPath="$PROJECT_DIR$/KnowScope.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../x11 day/learnPolymorphism/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../x11 day/learnPolymorphism/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
