@@ -16,3 +16,5 @@
 - unctools.wraps<br />wraps本身也是一个装饰器，它能把原函数的元信息拷贝到装饰器里面的 func 函数中，这使得装饰器里面的 func 函数也有和原函数 foo 一样的元信息了。元信息比如：docstring(\_\_doc\_\_)、\_\_name\_\_
 
 - 装饰器顺序<br/>一个方法可以同时定义多个装饰器<br />执行顺序：从内到外
+
+- 参考：<br />https://foofish.net/python-decorator.html
