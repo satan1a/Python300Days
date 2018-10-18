@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3587cce1-8078-491b-9cef-50e35d086fba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prc__slots__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/use__slots__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../x14 day/instanceAndClassAttribute/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../x14 day/instanceAndClassAttribute/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../使用__slots__/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../使用__slots__/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../使用__slots__/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../使用__slots__/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../使用__slots__/.idea/使用__slots__.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,13 +36,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="142" />
+          <entry key="md" value="146" />
           <entry key="py" value="888" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="142" />
+          <entry key="Markdown" value="146" />
           <entry key="Python" value="888" />
         </counts>
       </usages-collector>
@@ -63,8 +54,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="75">
-                <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+              <first_editor relative-caret-position="100">
+                <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -299,8 +290,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+          <first_editor relative-caret-position="100">
+            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
           </first_editor>
           <second_editor />
         </state>
