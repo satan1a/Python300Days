@@ -5,7 +5,8 @@
     + errors='ignore'
     + r     read
     + rb    read binary file
-    + w     write sth. into the file, if the file is not exit, it will create file automatically
+    + w     write sth. into the file, cover the original content; if the file is not exit, it will create file automatically;
+    + a     add strings at the end, will not cover the original content
 
 ## write()
 - Before we use write(), we should set the 'open()'param as 'w'
